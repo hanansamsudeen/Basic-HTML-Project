@@ -1,0 +1,25 @@
+.intro:hover{
+    font-size:65px;
+    font-family:georgia;
+    font-style:italic;
+    font-weight:700;
+    background-color:tan;
+    color:red;
+}
+.intro:active{
+    font-size:90px;
+    font-family:fantasy;
+    font-style:italic;
+    font-weight:700;
+    background-color:PaleGreen;
+    color:Plum;
+}
+.first-line{
+    
+}
+body{
+       background-color:rgb(155,35,53);
+       color:#edbfff;
+       text-align:center;
+       font-size:45px;
+}
